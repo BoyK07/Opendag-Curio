@@ -44,7 +44,7 @@ Dit is de gepersonaliseerde webplatform gemaakt door studenten van Curio's Softw
 
 1. Clone de Curio repository:
    ```sh
-   git clone https://github.com/BigFxckNoob/Opendag-Curio
+   git clone https://github.com/BoyKrijnen/Opendag-Curio
    ```
 2. Navigeer naar de projectdirectory:
    ```sh
@@ -64,7 +64,7 @@ Dit project wordt gedistribueerd onder de MIT-licentie. Zie `LICENSE.txt` voor m
 
 Sadcat - [Discord](discord.com) - \_sadcat\_
 
-Project Link: [https://github.com/BigFxckNoob/Opendag-Curio](https://github.com/BigFxckNoob/Opendag-Curio)
+Project Link: [https://github.com/BoyKrijnen/Opendag-Curio](https://github.com/BoyKrijnen/Opendag-Curio)
 
 ## Erkenningen
 
