@@ -64,7 +64,7 @@ Dit project wordt gedistribueerd onder de MIT-licentie. Zie `LICENSE.txt` voor m
 
 Sadcat - [Discord](discord.com) - \_sadcat\_
 
-Project Link: [https://github.com/BoyKrijnen/Opendag-Curio](https://github.com/BoyKrijnen/Opendag-Curio)
+Project Link: [https://github.com/BoyK07/Opendag-Curio](https://github.com/BoyKrijnen/Opendag-Curio)
 
 ## Erkenningen
 
