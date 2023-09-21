@@ -44,7 +44,7 @@ Dit is de gepersonaliseerde webplatform gemaakt door studenten van Curio's Softw
 
 1. Clone de Curio repository:
    ```sh
-   git clone https://github.com/BoyKrijnen/Opendag-Curio
+   git clone https://github.com/BoyK07/Opendag-Curio
    ```
 2. Navigeer naar de projectdirectory:
    ```sh
